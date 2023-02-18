@@ -1,0 +1,32 @@
+_repo: Egyptian-decorative-art-b-A-course-of-lectures-delivered-at-the-Royal-Institution_70049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
+    aliases:
+    - Petrie, Flinders
+    - Petrie, William Matthew Flinders, Sir
+    birthdate: 1853
+    deathdate: 1942
+    gutenberg_agent_id: '2454'
+    url: http://www.gutenberg.org/2009/agents/2454
+    wikipedia: https://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
+description: ''
+gutenberg_issued: '2023-02-16'
+identifiers:
+  gutenberg: '70049'
+language: en
+pgterms:marc904: https://archive.org/details/egyptiandecorati00petr/
+pgterms:marc905: 20181003222032petrie
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bMethuen & Co., Ltd., $c1895, copyright 1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Egyptian decorative art : $b A course of lectures delivered at the Royal Institution'
+url: http://www.gutenberg.org/ebooks/70049
